@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;	
+}
+body,html{
+	color:#646d6a;
+	font:14px "微软雅黑", Arial;
+}
+h1,h2,h3,h4,h5,h6,b,strong{
+	font-weight:normal;
+	font-size:100%;	
+}
+i,em{
+	font-style:normal;	
+}
+a{
+    text-decoration:none;	
+    color: #1d313b;
+}
+li{
+	list-style:none;	
+}
+input{
+	outline:none;	
+}
+img{
+    border:0;
+}
+.clearfix{
+	*zoom:1;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	height:0;
+	clear: both;
+	visibility:hidden;
+}

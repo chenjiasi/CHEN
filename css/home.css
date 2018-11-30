@@ -1,0 +1,88 @@
+/* banner */
+#banner_wrapper{
+    height: 328px;
+    background: #e6e6e6;
+}
+.banner{
+    height: 328px;
+    background: #e6e6e6;
+}
+.banner_left{
+    float: left;
+}
+.banner_left a img{
+    display: block;
+}
+.banner_right{
+    float: right;
+    background: #eeee;
+    padding:0 40px;
+    width: 252px;
+    height: 325px;
+    border-bottom: 3px solid #c5151f;
+}
+.banner_right ul li {
+    padding: 10px 0;
+    line-height: 18px;
+    border-bottom: 2px dashed #dcdcdc;
+}
+.banner_right ul li .ft_hs{
+    color: #000700;
+}
+.banner_right ul li a{
+    color: #4c4243;
+}
+.banner_right ul li .fw_color{
+    font-weight: bold;
+}
+.arrow{
+    float: right;
+    font-size: 20px;
+}
+/* 主体内容 */
+#main_wrapper{
+    height: 588px;
+    background: #fff;
+}
+.main{
+    height: 588px;
+    background: #fff;
+    overflow: hidden;
+}
+.main_report{
+    width: 268px;
+    margin-top: 40px;
+    border: 1px solid #000;
+}
+.report_top{
+    height: 223px;
+    background: #ccc;
+}
+.report_tp{
+    height: 42px;
+    line-height: 42px;
+    font-size: 16px;
+    color: #352e36;
+    border-bottom:2px solid #ebebeb;
+}
+.report_sk{
+    width: 268px;
+    height: 162px;
+    text-align:center;
+    padding-top: 19px;
+}
+.report_sk img{
+    display: block;
+
+}
+.report_sk p{
+    line-height: 24px;
+    color: #686863;
+}
+.report_btm{
+    margin-top: 30px;
+}
+.report{
+    height: 172px;
+    background: pink;
+}
